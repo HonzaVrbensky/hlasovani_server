@@ -4,6 +4,7 @@ radio.setTransmitSerialNumber(true)
 let my_serial = control.deviceSerialNumber()
 let name = "vote"
 name = "send"
+name = "learn"
 let number = 1
 let value = 0
 let list_of_votes = [0, 0, 0, 0]

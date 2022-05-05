@@ -5,6 +5,7 @@ my_serial = control.device_serial_number()
 
 name= "vote"
 name= "send"
+name = "learn"
 number= 1
 value= 0
 list_of_votes= [0,0,0,0]
