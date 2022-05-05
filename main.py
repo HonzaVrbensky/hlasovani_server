@@ -66,3 +66,10 @@ def list_voting_append():
         pass
 
 list_voting_append()
+
+
+#list = [{"serial": "seriove cislo 1", "volba": 1}
+#        {"serial": "seriove cislo 2", "volba": 2}
+#        {"serial": "seriove cislo 3", "volba": 1}]
+#for vote in list:
+#   print(vote["volba"])
